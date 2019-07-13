@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1516346103 source:c:\users\howar\documents\school\c scripts\week 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516345238 source:c:\users\howar\documents\school\c scripts\week 1\practice question.c
+	<stdio.h>
+	<math.h>
+
+1516347981 source:c:\users\howar\documents\school\c scripts\week 1\lab question 2.c
+	<stdio.h>
+	<math.h>
+
+1516349179 source:c:\users\howar\documents\school\c scripts\week 1\program debugger.c
+	<stdio.h>
+
